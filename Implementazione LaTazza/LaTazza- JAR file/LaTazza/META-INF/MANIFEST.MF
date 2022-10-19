@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ org.eclipse.fx.ide.css.jfx8_3.3.0.201805280700.jar
+  org.junit.jupiter.api_5.1.0.v20180327-1502.jar org.junit.jupiter.eng
+ ine_5.1.0.v20180327-1502.jar org.junit.jupiter.migrationsupport_5.1.0
+ .v20180327-1502.jar org.junit.jupiter.params_5.1.0.v20180327-1502.jar
+  org.junit.platform.commons_1.1.0.v20180327-1502.jar org.junit.platfo
+ rm.engine_1.1.0.v20180327-1502.jar org.junit.platform.launcher_1.1.0.
+ v20180327-1502.jar org.junit.platform.runner_1.1.0.v20180327-1502.jar
+  org.junit.platform.suite.api_1.1.0.v20180327-1502.jar org.junit.vint
+ age.engine_5.1.0.v20180327-1502.jar org.opentest4j_1.0.0.v20180327-15
+ 02.jar org.apiguardian_1.0.0.v20180327-1502.jar junit.jar org.hamcres
+ t.core_1.3.0.v20180420-1519.jar
+Class-Path: .
+Rsrc-Main-Class: application.Main
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
